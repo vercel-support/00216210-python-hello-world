@@ -1,0 +1,8 @@
+certifi==2022.12.7
+dnspython==2.1.0
+mongoengine==0.27.0
+
+python-jose-cryptodome @ https://github.com/tradestars-app/python-jose-cryptodome/archive/v1.0.zip
+
+pandas
+openai
