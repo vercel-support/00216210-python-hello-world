@@ -3,5 +3,12 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
+[packages]
+openai = "*"
+streamlit = "*"
+requests = "*"
+tornado = "*"
+normalizer = "*"
+
 [requires]
 python_version = "3.9"
